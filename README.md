@@ -1,6 +1,6 @@
 # Exp 02 - React Lab Exercise: Using Props
-## NAME : Sukhmeet Kaur G
-## REG NO: 2305001032
+## NAME : Mahesh N
+## REG NO: 2305001017
 ## Aim
 
 To create a React application that demonstrates passing data from a parent component to a child component using props.
